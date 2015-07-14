@@ -22,7 +22,6 @@ License URI: https://github.com/WPGlobus/wpglobus-translate-options/blob/master/
 == Installation ==
 
 You can install this plugin directly from your WordPress dashboard:
-
 1. Go to the *Plugins* menu and click *Add New*.
 1. Search for *WPGlobus*.
 1. Click *Install Now* next to the *WPGlobus Translate Options* plugin.
@@ -51,6 +50,9 @@ Please check out the [WPGlobus Website](http://www.wpglobus.com/add-ons/wpglobus
 3. Interface to add option for translation.
 
 == Changelog ==
+
+= 1.2.1 =
+* Fixed warning Empty needle
 
 = 1.2.0 =
 * Added ability to see source of option
